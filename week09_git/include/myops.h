@@ -9,4 +9,8 @@ double mymul(double a, double b);
 
 double mydiv(double a, double b);
 
+int mymod(int a, int b);
+
+double mypow(double a, double b);
+
 #endif
